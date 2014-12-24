@@ -203,6 +203,7 @@ table {
 	margin: 0 auto;
 	font-family: 'Open Sans', sans-serif;
 	color: #aab1bf;
+	text-align: justify;
 }
 .features
 {
@@ -214,6 +215,10 @@ table {
 .features-section
 {
 	text-align: center;
+}
+.features-section p
+{
+	text-align: justify;
 }
 h3.text-head
 {
